@@ -1,2 +1,0 @@
-# MicroRabbit
-Microservice with RabittMq
